@@ -29,4 +29,5 @@ python cpf_validator.py
 ```
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-##
+
+## Adapte conforme necessário para atender às suas necessidades específicas.
