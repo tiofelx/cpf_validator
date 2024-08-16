@@ -25,4 +25,4 @@ O CPF é um número de registro único no Brasil, composto por 11 dígitos. Este
 3. Execute o programa:
 
 ```bash
-python validador_cpf.py
+python cpf_validator.py
